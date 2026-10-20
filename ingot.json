@@ -1,0 +1,16 @@
+{
+  "name": "volundir-help-base",
+  "version": "0.0.1",
+  "description": "[:Volundir] Base Help System.",
+  "dependencies": [],
+  "comands": [
+    {
+      "name": "help",
+      "aliases": ["h"],
+      "description": "Shows help messages.",
+      "const_name": "Volundir::Help::Base",
+      "action": "show_help",
+      "controller": "/help/help_base.rb"
+    }
+  ]
+}

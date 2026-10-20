@@ -1,0 +1,5 @@
+{
+  "header": "[:Volundir][:CLI] - Extensible Modular Engine",
+  "usage": "volundir <command> [options]",
+  "available_commands_title": "Available Commands:"
+}
