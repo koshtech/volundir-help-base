@@ -1,7 +1,7 @@
 {
   "name": "volundir-help-base",
   "version": "0.0.1",
-  "description": "[:Volundir][:Apps] Base Help System.",
+  "description": "[:Volundir][:PWA] Base Help System.",
   "dependencies": ["volundir-ruby"],
   "comands": [
     {
